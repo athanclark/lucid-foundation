@@ -1,10 +1,10 @@
 Name:                   lucid-foundation
-Version:                0.0.0
+Version:                0.0.1
 Author:                 Athan Clark <athan.clark@gmail.com>
 Maintainer:             Athan Clark <athan.clark@gmail.com>
 License:                BSD3
 License-File:           LICENSE
--- Synopsis:               
+Synopsis:               Basic Zurb Foundation API in Lucid
 -- Description:            
 Cabal-Version:          >= 1.10
 Build-Type:             Simple
@@ -33,4 +33,4 @@ Test-Suite spec
 
 Source-Repository head
   Type:                 git
---  Location:             
+  Location:             https://github.com/athanclark/lucid-foundation
