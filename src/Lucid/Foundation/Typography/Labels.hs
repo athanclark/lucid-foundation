@@ -9,7 +9,7 @@ import qualified Data.Text as T
 import Data.Monoid
 
 
-label_ :: T.Text
-label_ = " label "
+label_class_ :: T.Text
+label_class_ = " label "
 
 
